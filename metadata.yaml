@@ -1,0 +1,31 @@
+_repo: El-Hombre-Mediocre-Ensayo-de-psicologia-y-moral_64974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingenieros, José
+    aliases:
+    - Ingenieros, Jose
+    - Ingegnieros, Joseph
+    - Ingegnieri, Giuseppe
+    - Ingegnieros, José
+    - Ingegnieros, Giuseppe
+    birthdate: 1877
+    deathdate: 1925
+    gutenberg_agent_id: '47499'
+    url: http://www.gutenberg.org/2009/agents/47499
+    wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Ingenieros
+description: ''
+gutenberg_issued: '2021-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64974'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'El Hombre Mediocre
+
+  Ensayo de psicologia y moral'
+url: http://www.gutenberg.org/ebooks/64974
